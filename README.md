@@ -15,3 +15,8 @@ The dataset is organized into two main directories:
 
 * **Dimensions:** 300x300 pixels
 * **Format:** JPEG
+
+
+### **Notice**
+
+This fork contains the original unaltered data, but also includes architecture for the Convolutional Neural Net (CNN) and the script that reads and predicts the letters you make with your hands in your webcam. If you have any questions, feel free to reach out at tristan[dot]sand[at]northwestern.edu.
